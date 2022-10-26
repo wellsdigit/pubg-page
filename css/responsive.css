@@ -29,7 +29,7 @@
     }
     .sub-images{
         display: flex;
-        margin-bottom: 100px;
+        margin-bottom: 60px;
     }
     nav .bar{
         width: 50%;
@@ -69,7 +69,7 @@
     .title{
         transform: translateX(50px);
         font-size: 14px;
-        top: 130px;
+        top: 160px;
     }
 
     .tools{
